@@ -1,2 +1,2 @@
 # HelloTriangle
-Hello, Triangle for OpenGL
+Hello, Triangle for Windows!
